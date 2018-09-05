@@ -6,9 +6,9 @@ import java.lang.annotation.*;
 /**
  * Mybatis的表名的注解
  *
- * @author wangwangxian
+ * @author jony
  * @create on 2018/08/09 10:34
- * @email wangwangxian@qding.me
+ * @email 1320765779@qq.com
  */
 @Documented
 @Target(ElementType.FIELD)

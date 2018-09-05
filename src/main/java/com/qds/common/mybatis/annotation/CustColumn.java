@@ -4,9 +4,9 @@ import java.lang.annotation.*;
 
 /**
  * MyBatis列名注解
- * @author wangwangxian
+ * @author jony
  * @date 2018/08/09 10:30
- * @e-mail wangwangxian@qding.me
+ * @e-mail 1320765779@qq.com
  */
 @Documented
 @Target(ElementType.FIELD)
